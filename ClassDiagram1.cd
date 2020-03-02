@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ColorChangedEvent" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\HSVPicker\Events\ColorChangedEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HSVChangedEvent" Collapsed="true">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\HSVPicker\Events\HSVChangedEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorPickerTester" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAACAAAAAAgAAQAAA=</HashCode>
+      <FileName>Assets\HSVPicker\Other\ColorPickerTester.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TiltWindow" Collapsed="true">
+    <Position X="0.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIADAAAAAAAAAAAAAAAAAAAAAAAAACAAAAACA=</HashCode>
+      <FileName>Assets\HSVPicker\Other\TiltWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorImage" Collapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAABAAEA=</HashCode>
+      <FileName>Assets\HSVPicker\UI\ColorImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorLabel" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAACBAAAAEJAAAAAAABAiAAAgAQAABACEA=</HashCode>
+      <FileName>Assets\HSVPicker\UI\ColorLabel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorPicker" Collapsed="true">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAgAAKyAJIACEAAAAAAAACACAAIAIAgABKkGQAQA=</HashCode>
+      <FileName>Assets\HSVPicker\UI\ColorPicker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorPresets" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAEAASAAAAAAAAQCABAAAAAABAQEA=</HashCode>
+      <FileName>Assets\HSVPicker\UI\ColorPresets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorSlider" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAQAAABAAAAAAAAAAAAAABAAAAAgEEAABAAEA=</HashCode>
+      <FileName>Assets\HSVPicker\UI\ColorSlider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorSliderImage" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFAAAAAAAAIAAAAAAAgAAAEAABACAIAgAAAABACEA=</HashCode>
+      <FileName>Assets\HSVPicker\UI\ColorSliderImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HexColorField" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABCAAAAAAAIAAAAAAAAAAAAAIAAACEAAAAAAEA=</HashCode>
+      <FileName>Assets\HSVPicker\UI\HexColorField.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SVBoxSlider" Collapsed="true">
+    <Position X="2.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAFAAAAQIAABAAAgAAEAAIAEJCAACAIAgAEAABACFA=</HashCode>
+      <FileName>Assets\HSVPicker\UI\SVBoxSlider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HSVUtil" Collapsed="true">
+    <Position X="2.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\HSVPicker\UtilityScripts\HSVUtil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IMEndGame" Collapsed="true">
+    <Position X="15" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\IM Scripts\IMEndGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IMGameManager" Collapsed="true">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAEAAAAAAAAAAAAABAAAAAQAEAA=</HashCode>
+      <FileName>Assets\IM Scripts\IMGameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IMObstacleMovement" Collapsed="true">
+    <Position X="16.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAEAAAAAAABAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\IM Scripts\IMObstacleMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IMObstacleSpawner" Collapsed="true">
+    <Position X="16.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAAIAAAAAAAAAAAAAAAAACQAAAAAABAAYAAAA=</HashCode>
+      <FileName>Assets\IM Scripts\IMObstacleSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IMObsticle" Collapsed="true">
+    <Position X="16.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\IM Scripts\IMObsticle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IMPlayerCollision" Collapsed="true">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\IM Scripts\IMPlayerCollision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IMPlayerMovement" Collapsed="true">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAEAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\IM Scripts\IMPlayerMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IMScore" Collapsed="true">
+    <Position X="12.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\IM Scripts\IMScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BackgroundMusic" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACABAAAAAAAAAEAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\BackgroundMusic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Costumise" Collapsed="true">
+    <Position X="8.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BQAAAAAAACAAAAAAAAAAAAAAAACAABABAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Costumise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Credits" Collapsed="true">
+    <Position X="15" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Assets\Scripts\Credits.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EndTrigger" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EndTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FollowPlayer" Collapsed="true">
+    <Position X="6" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAACAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\FollowPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABgCAAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameMusic" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAACAAAAQAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\GameMusic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LastScore" Collapsed="true">
+    <Position X="12.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LastScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelComplete" Collapsed="true">
+    <Position X="10.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LevelComplete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelsMenu" Collapsed="true">
+    <Position X="10.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAADgnwEAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LevelsMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Login" Collapsed="true">
+    <Position X="8.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAACABABAAAAAQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAIAABAAAAAABgAAAAAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modes" Collapsed="true">
+    <Position X="8.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAIAAAAAIAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Modes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObstacleMovement" Collapsed="true">
+    <Position X="15" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAAAAAAAAAAgQIAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ObstacleMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerCollision" Collapsed="true">
+    <Position X="4.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerCollision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMovement" Collapsed="true">
+    <Position X="4.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAEAAAAQAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMovementExpanded" Collapsed="true">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerMovementExpanded.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Score" Collapsed="true">
+    <Position X="12.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAEAQAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreExpanded" Collapsed="true">
+    <Position X="12.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAEAQAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ScoreExpanded.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SettingsMenu" Collapsed="true">
+    <Position X="8.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAAABAgAAAAABAACAAIAEAASAAAA=</HashCode>
+      <FileName>Assets\Scripts\SettingsMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.HSVPicker.ColorPickerSetup" Collapsed="true">
+    <Position X="0.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAARAACAAEAEAAAMACAAAEBAQBEAQAACAAAAA=</HashCode>
+      <FileName>Assets\HSVPicker\UI\ColorPickerSetup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.HSVPicker.ColorPresetManager" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\HSVPicker\UI\ColorPresetManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.HSVPicker.ColorPresetList" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAIAEAAAAAAEAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Assets\HSVPicker\UI\ColorPresetManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.UI.BoxSlider" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABgIAAAAAIJQIIAAFIACCAEKZIYCIIAnCBAAAADIA=</HashCode>
+      <FileName>Assets\HSVPicker\UtilityScripts\BoxSlider.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MonoBehaviour">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MonoBehaviour.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="HsvColor" Collapsed="true">
+    <Position X="2.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAEAAAQAIAAAAAAAAAAAAAECQAAA=</HashCode>
+      <FileName>Assets\HSVPicker\UtilityScripts\HSVUtil.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="ColorValues" Collapsed="true">
+    <Position X="0.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgKAEAAQA=</HashCode>
+      <FileName>Assets\HSVPicker\Enums\ColorValues.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
